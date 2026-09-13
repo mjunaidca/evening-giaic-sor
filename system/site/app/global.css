@@ -40,7 +40,7 @@
    everywhere has no accent. `--ksor-caution` (further down) is the only other
    colour with a job, and its job is the opposite one. */
 :root {
-  --background: oklch(1 0 0);
+  --background: oklch(0.96 0.03 350); /* light pink */
   --foreground: oklch(0.17 0.012 255);
   --card: oklch(0.985 0.002 255);
   --card-foreground: oklch(0.17 0.012 255);
